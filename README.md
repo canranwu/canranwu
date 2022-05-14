@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @canranwu
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++
+- We are finding people to join us and discuss programming
+- 👀Do you want to join us?
+- 🌱We are from China! 
+- You can contact us here or Wechat or QQ or E-mail !
